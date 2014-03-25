@@ -13,6 +13,6 @@ Installation
 6. add `require_once('wp-gitable.php')` to top your `wp-config.php`
 7. work in `wp-contents` folder as used to
 
-wordpress is now separately versioned in `wordpress folder`, updating wordpress becomes as simple as typing `$ git pull origin` inside wordpress folder
+wordpress is now separately versioned in `wordpress folder`, updating wordpress becomes as simple as typing `$git pull origin` inside wordpress folder
 
 
