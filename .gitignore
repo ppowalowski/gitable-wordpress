@@ -1,7 +1,9 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+thumbs.db
+Thumbs.db
+
+.htaccess
 wp-config.php
 wp-content/uploads/*
-*thumbs.db
-*Thumbs.db
-thums.db
-Thumbs.db
-.htaccess
